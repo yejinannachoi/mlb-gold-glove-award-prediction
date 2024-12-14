@@ -1,3 +1,5 @@
+![Rawlings Gold Glove Award](https://www.rawlings.com/dw/image/v2/BBBJ_PRD/on/demandware.static/-/Sites-rawlings-consolidated-Library/default/dw7605d493/images/landing/gold-glove/gold-glove-header-1440-600.jpg)
+
 # Predicting MLB Gold Glove Winners with Python
 ![pandas](https://img.shields.io/badge/pandas-blue) ![numpy](https://img.shields.io/badge/numpy-orange) ![scikit-learn](https://img.shields.io/badge/scikit--learn-green) ![matplotlib](https://img.shields.io/badge/matplotlib-yellow)
 
