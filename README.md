@@ -1,19 +1,18 @@
 # Predicting MLB Gold Glove Winners with Python
 ![pandas](https://img.shields.io/badge/pandas-blue) ![numpy](https://img.shields.io/badge/numpy-orange) ![scikit-learn](https://img.shields.io/badge/scikit--learn-green) ![matplotlib](https://img.shields.io/badge/matplotlib-yellow)
 
-
 This project aims to predict the winners of the MLB Gold Glove Award across all positions in both the American and National Leagues by leveraging position-specific and league-specific defensive statistics. The project utilizes machine learning techniques to rank players based on their likelihood of winning the award, providing valuable insights for baseball scouts, analysts, teams, and fans.
 
 ## Problem and Relevance
 
-The MLB Gold Glove Award annually recognizes the best defensive players at their respective positions. The challenge lies in:
+The MLB Gold Glove Award annually recognizes the best defensive players at their respective positions. The problem involves:
 - Analyzing complex fielding metrics to identify defensive excellence.
 - Addressing imbalanced data where only ~1% of entries represent winners.
 - Customizing predictions based on positional and league-specific characteristics.
 
 This predictive model can aid in player scouting, development, and strategic decision-making for teams.
 
-## Dataset
+## Datasets
 
 ### Data Sources
 - **Baseball-Reference**: Collected detailed fielding metrics for all MLB players (2013–2024).
@@ -72,7 +71,9 @@ This predictive model can aid in player scouting, development, and strategic dec
 
 ## References
 
-- [Machine Learning Model Predicting MLB Gold Glove Award Winners](https://github.com/lucaskelly49/Machine-Learning-Model-Predicting-MLB-Gold-Glove-Award-Winners)
+[Machine Learning Model Predicting MLB Gold Glove Award Winners](https://github.com/lucaskelly49/Machine-Learning-Model-Predicting-MLB-Gold-Glove-Award-Winners)
+
+A guidance resource for a machine learning project developed as part of the Module 3 Final Project for a Flatiron School curriculum
 
 ---
 
