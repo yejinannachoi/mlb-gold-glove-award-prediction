@@ -1,4 +1,7 @@
-# Predicting Gold Glove Winners Using Machine Learning
+# Predicting MLB Gold Glove Winners with Python
+![pandas](https://img.shields.io/badge/pandas-blue) ![numpy](https://img.shields.io/badge/numpy-orange) ![scikit-learn](https://img.shields.io/badge/scikit--learn-green) ![matplotlib](https://img.shields.io/badge/matplotlib-yellow)
+
+
 This project aims to predict the winners of the MLB Gold Glove Award across all positions in both the American and National Leagues by leveraging position-specific and league-specific defensive statistics. The project utilizes machine learning techniques to rank players based on their likelihood of winning the award, providing valuable insights for baseball scouts, analysts, teams, and fans.
 
 ## Problem and Relevance
@@ -70,3 +73,7 @@ This predictive model can aid in player scouting, development, and strategic dec
 ## References
 
 - [Machine Learning Model Predicting MLB Gold Glove Award Winners](https://github.com/lucaskelly49/Machine-Learning-Model-Predicting-MLB-Gold-Glove-Award-Winners)
+
+---
+
+This project was completed as part of the **QTM 347 Machine Learning I course** at Emory University under the guidance of **Professor Ruoxuan Xiong**. The datasets for this project were sourced and curated using MLB stats and records from **Baseball-Reference.com**.
